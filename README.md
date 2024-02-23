@@ -1,4 +1,4 @@
-# Dogs vs Cats Image Classification using Python | CNN | Deep Learning Project
+# Binary Image Classification using Python | CNN | Deep Learning Project
 
 ### Dataset Information
 
